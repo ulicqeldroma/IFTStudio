@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Loghtyrian\\AndroidStudioProjects\\IFTQoS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Loghtyrian\\AndroidStudioProjects\\IFTQoS\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loghtyrian\\AndroidStudioProjects\\IFTQoS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\configuracion.xml",
+        "source": "C:\\Users\\Loghtyrian\\AndroidStudioProjects\\IFTQoS\\app\\src\\main\\res\\menu\\configuracion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loghtyrian\\AndroidStudioProjects\\IFTQoS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\config2.xml",
+        "source": "C:\\Users\\Loghtyrian\\AndroidStudioProjects\\IFTQoS\\app\\src\\main\\res\\menu\\config2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loghtyrian\\AndroidStudioProjects\\IFTQoS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\historico_ift.xml",
+        "source": "C:\\Users\\Loghtyrian\\AndroidStudioProjects\\IFTQoS\\app\\src\\main\\res\\menu\\historico_ift.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loghtyrian\\AndroidStudioProjects\\IFTQoS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\acerca_ift.xml",
+        "source": "C:\\Users\\Loghtyrian\\AndroidStudioProjects\\IFTQoS\\app\\src\\main\\res\\menu\\acerca_ift.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loghtyrian\\AndroidStudioProjects\\IFTQoS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\test_qo.xml",
+        "source": "C:\\Users\\Loghtyrian\\AndroidStudioProjects\\IFTQoS\\app\\src\\main\\res\\menu\\test_qo.xml"
+    }
+]

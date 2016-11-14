@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IFTQoS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_acerca_ift">AcercaIFT</string>
+    <string name="title_activity_historico_ift">HistoricoIFT</string>
+    <string name="title_activity_test_qo_s">TestQoS</string>
+    <string name="vacio" />
+    <string name="introduccion">Esta aplicación te ayudará a conocer la velocidad de carga y descarga de archivos proporcionada por tu proveedor de telefonia, para continuar presiona el boton \"Iniciar la prueba\".</string>
+    <string name="iniciar_prueba">INICIAR LA PRUEBA</string>
+    <string name="graph">Graph of data</string>
+    <string name="title_activity_configuracion">Configuracion</string>
+    <string name="line_break">Line Break</string>
+    <string name="configuracion">Configuración</string>
+    <string name="txtConfig">Para poder iniciar la aplicación deberás indicar la cantidad de Mb mensual de tu paquete de datos, así como los Mb que asignarás para realizar las pruebas, el mínimo permitido son 30 Mb.</string>
+    <string name="mbmes">"Total de MB mensuales: "</string>
+    <string name="mbdestinados">"MB destinados a la app: "</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="carga1">IFTQoS</string>
+    <string name="ift">¿Quiénes somos?</string>
+    <string name="ift_d">El Instituto Federal de Telecomunicaciones es un órgano autónomo. Su objetivo primordial es el desarrollo eficiente de la radiodifusión y las telecomunicaciones en México con apego a lo establecido en la Constitución. Para lograrlo, deberá regular, promover y supervisar el uso, aprovechamiento y explotación de:</string>
+    <string name="ift_d2">\t-El espectro radioeléctrico.</string>
+    <string name="ift_d3">\t-Las redes.</string>
+    <string name="ift_d4">\t-Prestación de servicios públicos de radiodifusión y telecomunicación.</string>
+    <string name="ift_d5">Asimismo, es responsable de garantizar el acceso equitativo a infraestructura y otros insumos esenciales para las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluidos los de banda ancha e internet.</string>
+    <string name="Resultados">Resultados</string>
+    <string name="title_activity_historico_resultados">HistoricoResultados</string>
+    <string name="fecha">HORA</string>
+    <string name="hora">HORA</string>
+    <string name="Carga">CARGA</string>
+    <string name="descarga">DESCARGA</string>
+    <string name="intensidad">"POTENCIA"</string>
+    <string name="Potencia">"Potencia de red: "</string>
+    <string name="inicio">Inicio</string>
+    <string name="title_activity_config2">Config2</string>
+    <string name="txtConfig2">En esta sección podrás modificar los parametros iniciales de configuración de la aplicación.</string>
+
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Loghtyrian\AndroidStudioProjects\IFTQoS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ed6ceed0d80b9806041bab1b382c7667b786ebc">
+        <dex dex="C:\Users\Loghtyrian\AndroidStudioProjects\IFTQoS\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_cad5aee6f5055ae399351bfce79b5dcaa6249c4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Loghtyrian\AndroidStudioProjects\IFTQoS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d454797043c6ec265bf2dc056a580865a4e36965">
+        <dex dex="C:\Users\Loghtyrian\AndroidStudioProjects\IFTQoS\app\build\intermediates\pre-dexed\debug\instant-run_ff9b055f6db441a578f99076948da5ce51e0624b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Loghtyrian\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Loghtyrian\AndroidStudioProjects\IFTQoS\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_e6a54d633f3d774f7d6753007c134e270c5902eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Loghtyrian\AndroidStudioProjects\IFTQoS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="C:\Users\Loghtyrian\AndroidStudioProjects\IFTQoS\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-18.0.0_ffd276000bbe7c056d7f8fff59ed1ec7e23f43b5.jar" />
+    </item>
+
+</items>
